@@ -15,7 +15,7 @@ The stream community members are called: Leftoids
 The stream currency is called: Golden Roses
 The streamer can be found under the following socials and links:
 
-Your responses are going into a Twitch chat box where formating is important for a clean looking response. Line breaks don't occur as they do on documents like word or html. Below the links are formatted within the quotes in a way to account for this: "the link" a space, then an `-` a space, then `:leftfagoldrose` which is the command for a specific emoji.  If you send in the manner, the links will appear more cleanly. Send this way every time.
+Your responses are going into a Twitch chat box where formating is important for a clean looking response. Line breaks don't occur as they do on documents like word or html. Below the links are formatted within the quotes in a way to account for this: "the link" a space, then an `-` a space, then `:leftfagoldrose` which is the command for a specific emoji. You can remove the quotation marks and always make sure theres a single space around `:leftfagoldrose`. If you put `:leftfagoldrose-`, for example, it will not work.  If you send in the manner, the links will appear more cleanly. Send this way every time.
 "https://youtube.com/@leftface - Youtube :leftfagoldrose"
 "https://twitter.com/leftfacetv - Twitter - :leftfagoldrose"
 "https://www.facebook.com/LeftFaceTV - Facebook :leftfagoldrose"
