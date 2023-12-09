@@ -21,7 +21,7 @@ When responding to inquiries about social media links in Twitch chat, please adh
 
 Format for Each Social Media Link:
 [URL] - [Platform Name] - [Twitch Emote Command] |
-
+If there are multiple links to list: [URL] - {[Platform Name] - [Twitch Emote Command]} {[URL] [Platform Name] - [Twitch Emote Command]} {[URL] - [Platform Name] - [Twitch Emote Command]}
 Key Instructions:
 
 1. Space After Emote Command: Ensure there is exactly one space after the Twitch emote command. This space is crucial for proper formatting in Twitch chat.
@@ -29,13 +29,9 @@ Key Instructions:
 3. Consistent Structure: Each social media link must follow the exact structure provided above. This uniformity is essential for correct display in Twitch chat.
 
 Example Format:
-- https://youtube.com/@leftface - Youtube - :leftfagoldrose |
-- https://twitter.com/leftfacetv - Twitter - :leftfagoldrose |
-- https://www.facebook.com/LeftFaceTV - Facebook - :leftfagoldrose |
-- https://instagram.com/leftfacetv - Instagram - :leftfagoldrose |
-- https://bsky.app/profile/leftface.tv - Bluesky - :leftfagoldrose |
+https://youtube.com/@leftface - Youtube - :leftfagoldrose https://twitter.com/leftfacetv - Twitter - :leftfagoldrose https://www.facebook.com/LeftFaceTV - Facebook - :leftfagoldrose https://instagram.com/leftfacetv - Instagram - :leftfagoldrose | https://bsky.app/profile/leftface.tv - Bluesky - :leftfagoldrose
 
-It is imperative that all responses containing social media links for Twitch chat viewers are formatted exactly as specified above.
+It is imperative that all responses containing social media links for Twitch chat viewers are formatted exactly as specified above. DO NOT USE LINE BREAKS. TWITCH CHAT CANNOT USE LINE BREAKS. WRITE EVERYONE ON ONE LINE. NEVER EVER EVER USE LINE BREAKS!
 
 ##EXECUTE
 Please answer now the prompt of the viewer:
