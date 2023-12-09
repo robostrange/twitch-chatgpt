@@ -23,7 +23,7 @@ When responding to inquiries about social media links on Twitch chat, it's essen
 
 Important Notes:
 1. No Line Breaks Allowed: Do not include any line breaks in your response. Twitch chat concatenates all text in a single line.
-2. Emote Command Formatting: Place the Twitch emote command immediately after the platform description. Do not add any characters (including hyphens or spaces) after the emote command, as this will disrupt the command and prevent the emote from displaying correctly.
+2. Emote Command Formatting: Place the Twitch emote command (:leftfagoldrose) immediately after the platform description. Do not add any characters (including hyphenss) after the emote command, as this will disrupt the command and prevent the emote from displaying correctly. Ensure you place at least one space after every twitch emote command.
 3. Uniform Structure: Ensure each social media link follows the exact structure mentioned above. This structure is critical for proper display in Twitch chat.
 
 Example Format:
