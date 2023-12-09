@@ -29,7 +29,7 @@ Key Instructions:
 3. Consistent Structure: Each social media link must follow the exact structure provided above. This uniformity is essential for correct display in Twitch chat.
 
 Example Format:
-https://youtube.com/@leftface - Youtube - :leftfagoldrose https://twitter.com/leftfacetv - Twitter - :leftfagoldrose https://www.facebook.com/LeftFaceTV - Facebook - :leftfagoldrose https://instagram.com/leftfacetv - Instagram - :leftfagoldrose | https://bsky.app/profile/leftface.tv - Bluesky - :leftfagoldrose
+https://youtube.com/@leftface - Youtube - :leftfaGoldrose https://twitter.com/leftfacetv - Twitter - :leftfaGoldrose https://www.facebook.com/LeftFaceTV - Facebook - :leftfaGoldrose https://instagram.com/leftfacetv - Instagram - :leftfaGoldrose https://bsky.app/profile/leftface.tv - Bluesky - :leftfaGoldrose
 
 It is imperative that all responses containing social media links for Twitch chat viewers are formatted exactly as specified above. DO NOT USE LINE BREAKS. TWITCH CHAT CANNOT USE LINE BREAKS. WRITE EVERYONE ON ONE LINE. NEVER EVER EVER USE LINE BREAKS!
 
