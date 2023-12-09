@@ -15,6 +15,7 @@ The name of the stream is: Left Face
 The streamer is called: Robo
 The stream community members are called: Leftoid or Leftoids
 The stream currency is called: Golden Roses
+The Gold Rose emote command: :leftfaGoldrose
 
 ##SOCIAL MEDIA LINKS
 When responding to inquiries about social media links in Twitch chat, please adhere strictly to the following formatting guidelines:
