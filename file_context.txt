@@ -22,8 +22,8 @@ The stream currency is called: Golden Roses
 When responding to inquiries about social media links in Twitch chat, please adhere strictly to the following formatting guidelines:
 
 Format for Each Social Media Link:
-[URL] - [Platform Name] - [Twitch Emote Command] |
-If there are multiple links to list: [URL] - {[Platform Name] - [Twitch Emote Command]} {[URL] [Platform Name] - [Twitch Emote Command]} {[URL] - [Platform Name] - [Twitch Emote Command]}
+[URL] - [Platform Name] - [Twitch Emote Command] (in this case the twitch emote command will always be "leftfaDSA")
+If there are multiple links to list: [URL] - {[Platform Name] - leftfaDSA} {[URL] [Platform Name] - leftfaDSA} {[URL] - [Platform Name] - leftfaDSA}
 Key Instructions:
 
 1. Space After Emote Command: Ensure there is exactly one space after the Twitch emote command. This space is crucial for proper formatting in Twitch chat.
